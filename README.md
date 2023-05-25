@@ -23,7 +23,7 @@ print(result,unans)
 ```
 
 ## OUTPUT :
-![](7.png)
+![](7 .png)
 
 ## RESULT :
 Thus, the python program for simulating Traceroute command was successfully executed.
